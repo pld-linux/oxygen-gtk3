@@ -1,11 +1,11 @@
 Summary:	Oxygen-Gtk3 - a port of the default KDE widget theme (Oxygen), to gtk3
 Name:		oxygen-gtk3
-Version:	1.3.1
+Version:	1.4.1
 Release:	1
 License:	LGPL v2.1
 Group:		Themes/GTK+
 Source0:	ftp://ftp.kde.org/pub/kde/stable/oxygen-gtk3/%{version}/src/%{name}-%{version}.tar.bz2
-# Source0-md5:	a8ca81ea29a93c5859f179266f07c66e
+# Source0-md5:	231854fbe379dd441518195c45d08201
 URL:		https://projects.kde.org/projects/playground/artwork/oxygen-gtk/
 BuildRequires:	cairo-devel
 BuildRequires:	cmake >= 2.8.0
